@@ -16,3 +16,6 @@ console.log(scoreInNumber)
 //2-false;
 //""-false;
 //"hitesh"-true;
+
+
+//***********************OPERATIONS******************//
